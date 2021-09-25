@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457b1d41-8221-4f39-a6ca-2254913bb87d" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Functional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Structured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02Functional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02StreamOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02Structured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03BehaviorParameterization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03FunctionalInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03FunctionalInterfaces2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03MethodReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP04CustomClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Parallelizing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Threads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="457b1d41-8221-4f39-a6ca-2254913bb87d" name="Changes" comment="add missing files">
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/CheckPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/IsUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/StringAndStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Example_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BigO/Exercise_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +42,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ydEa3FksMZyVGP9HSizHN74yVV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="CheckPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -88,9 +107,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add missing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add missing files" />
   </component>
 </project>
