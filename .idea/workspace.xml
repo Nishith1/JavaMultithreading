@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826c5efa-27e3-4bbe-915c-2a78eb095394" name="Changes" comment="" />
+    <list default="true" id="826c5efa-27e3-4bbe-915c-2a78eb095394" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA-CTCI/DSA-CTCI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/CollectionHierarchy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
