@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c53676-c4d9-4855-af85-f80567d500c7" name="Changes" comment="refactor again" />
+    <list default="true" id="b4c53676-c4d9-4855-af85-f80567d500c7" name="Changes" comment="refactor again">
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP01Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP02Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03BehaviorParameterization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03FunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03FunctionalInterfaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP03MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP04CustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Parallelizing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/programming/FP05Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
