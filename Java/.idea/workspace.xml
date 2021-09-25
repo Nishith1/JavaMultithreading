@@ -29,13 +29,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArrayExamples">
-    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.in28minutes.java.arrays.ArrayExamples" />
+  <component name="RunManager" selected="Application.EnumAdvanced">
+    <configuration name="AbstractClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nishith.java.classmodifiers.nonaccess.abstractclass.AbstractClassExample" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.in28minutes.java.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nishith.java.enums.EnumAdvanced" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nishith.java.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,9 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AbstractClassExample" />
+      <item itemvalue="JUnit.StringVsStringBuffer" />
+      <item itemvalue="Application.EnumAdvanced" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.EnumAdvanced" />
+        <item itemvalue="Application.AbstractClassExample" />
         <item itemvalue="JUnit.StringVsStringBuffer" />
       </list>
     </recent_temporary>
